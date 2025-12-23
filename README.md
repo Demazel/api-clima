@@ -38,16 +38,16 @@ pip install matplotlib
 4. Execute o script:
 python main.py
 
-##📊 Resultado Esperado
-Gráfico exibindo a variação da temperatura ao longo das horas
-Visualização clara para identificação de padrões, picos e tendências
+## 📊 Resultado Esperado
+- Gráfico exibindo a variação da temperatura ao longo das horas
+- Visualização clara para identificação de padrões, picos e tendências
 
-##📌 Observações
-O endpoint da API pode ser ajustado conforme a fonte de dados
-O projeto é modular e pode ser expandido para outros cenários de análise
+## 📌 Observações
+- O endpoint da API pode ser ajustado conforme a fonte de dados
+- O projeto é modular e pode ser expandido para outros cenários de análise
 
-##📈 Possíveis Evoluções
-Uso do Pandas para manipulação avançada dos dados
-Armazenamento dos dados em arquivos CSV ou banco de dados
-Criação de dashboards interativos (Power BI, Tableau ou Streamlit)
-Aplicação de métricas estatísticas para análise mais aprofundada
+## 📈 Possíveis Evoluções
+- Uso do Pandas para manipulação avançada dos dados
+- Armazenamento dos dados em arquivos CSV ou banco de dados
+- Criação de dashboards interativos (Power BI, Tableau ou Streamlit)
+- Aplicação de métricas estatísticas para análise mais aprofundada
